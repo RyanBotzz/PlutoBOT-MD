@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6283832492541'] // Put your number here
+global.owner = ['6285779150501'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -33,19 +33,19 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Made by'
-global.author = 'MarsBOT-MD'
+global.author = 'PlutoBOT-MD'
 
 global.benar = 'benar mendapatkan'
 global.salah = 'salah'
 global.dikit = 'hampir benar'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = 'Made by : RHns'
-global.instagram = 'https://instagram.com/bgsrhnsh'
+global.instagram = 'https://instagram.com/rangga_botz'
 global.media = 'https://telegra.ph/file/1a0e237dc563e7cc1a143.jpg'
 global.wait = '*tunggu sedang diproses...*'
 global.eror = '*bermasalah...*'
 global.dtl = 'Sorce Code'
-global.link = 'https://wa.me/message/3VBSFONVCZQ5P1'
+global.link = 'https://wa.me/6285779150501'
 global.dtc = 'Owner'
 global.call = '+62 813-2017-0984'
 
